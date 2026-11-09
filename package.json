@@ -39,7 +39,7 @@
     "@react-aria/separator": "^3.3.2",
     "@react-aria/slider": "^3.4.1",
     "@react-aria/tabs": "^3.6.0",
-    "@react-aria/utils": "^3.17.0",
+    "@react-aria/utils": "^3.34.1",
     "@react-aria/visually-hidden": "^3.8.1",
     "@react-stately/collections": "^3.8.0",
     "@react-stately/menu": "^3.5.2",
